@@ -1,0 +1,32 @@
+Cleaning up previous build...
+Processing 'fonts/Yekan Bakh/Yekan Bakh Regular.ttf' -> 'glyphs/Yekan Bakh Regular'
+Processing 'fonts/Peyda/Peyda-ExtraBold.ttf' -> 'glyphs/Peyda ExtraBold'
+Processing 'fonts/Peyda/Peyda-Bold.ttf' -> 'glyphs/Peyda Bold'
+Processing 'fonts/Peyda/Peyda-Light.ttf' -> 'glyphs/Peyda Light'
+Processing 'fonts/Peyda/Peyda-Black.ttf' -> 'glyphs/Peyda Black'
+Processing 'fonts/Peyda/Peyda-Medium.ttf' -> 'glyphs/Peyda Medium'
+Processing 'fonts/Peyda/Peyda.ttf' -> 'glyphs/Peyda'
+Processing 'fonts/Peyda/Peyda-Regular.ttf' -> 'glyphs/Peyda Regular'
+Processing 'fonts/Peyda/Peyda-SemiBold.ttf' -> 'glyphs/Peyda SemiBold'
+Processing 'fonts/Peyda/Peyda-ExtraLight.ttf' -> 'glyphs/Peyda ExtraLight'
+Processing 'fonts/Vazirmatn/Vazirmatn-Black.ttf' -> 'glyphs/Vazirmatn Black'
+Processing 'fonts/Vazirmatn/Vazirmatn-Medium.ttf' -> 'glyphs/Vazirmatn Medium'
+Processing 'fonts/Vazirmatn/Vazirmatn-Bold.ttf' -> 'glyphs/Vazirmatn Bold'
+Processing 'fonts/Vazirmatn/Vazirmatn-SemiBold.ttf' -> 'glyphs/Vazirmatn SemiBold'
+Processing 'fonts/Vazirmatn/Vazirmatn-Light.ttf' -> 'glyphs/Vazirmatn Light'
+Processing 'fonts/Vazirmatn/Vazirmatn-Regular.ttf' -> 'glyphs/Vazirmatn Regular'
+Processing 'fonts/Vazirmatn/Vazirmatn-Thin.ttf' -> 'glyphs/Vazirmatn Thin'
+Processing 'fonts/Vazirmatn/Vazirmatn-ExtraLight.ttf' -> 'glyphs/Vazirmatn ExtraLight'
+Processing 'fonts/Vazirmatn/Vazirmatn-ExtraBold.ttf' -> 'glyphs/Vazirmatn ExtraBold'
+Processing 'fonts/Modam/Modam-Bold.ttf' -> 'glyphs/Modam Bold'
+Processing 'fonts/Modam/Modam-Medium.ttf' -> 'glyphs/Modam Medium'
+Processing 'fonts/Modam/Modam-ExtraLight.ttf' -> 'glyphs/Modam ExtraLight'
+Processing 'fonts/Modam/Modam-Light.ttf' -> 'glyphs/Modam Light'
+Processing 'fonts/Modam/Modam-ExtraBold.ttf' -> 'glyphs/Modam ExtraBold'
+Processing 'fonts/Modam/Modam-Regular.ttf' -> 'glyphs/Modam Regular'
+Processing 'fonts/Modam/Modam-Black.ttf' -> 'glyphs/Modam Black'
+Processing 'fonts/Modam/Modam-SemiBold.ttf' -> 'glyphs/Modam SemiBold'
+Generating glyphs.json...
+-----------------------------------
+All glyphs built successfully.
+Generated glyphs.json and populated the 'glyphs' directory.
