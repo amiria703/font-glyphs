@@ -1,5 +1,7 @@
 Cleaning up previous build...
 Processing 'fonts/Yekan Bakh/Yekan Bakh Regular.ttf' -> 'glyphs/Yekan Bakh Regular'
+Processing 'fonts/Noora/Noora-SemiBold.ttf' -> 'glyphs/Noora SemiBold'
+Processing 'fonts/Noora/Noora-Regular.ttf' -> 'glyphs/Noora Regular'
 Processing 'fonts/Peyda/Peyda-ExtraBold.ttf' -> 'glyphs/Peyda ExtraBold'
 Processing 'fonts/Peyda/Peyda-Bold.ttf' -> 'glyphs/Peyda Bold'
 Processing 'fonts/Peyda/Peyda-Light.ttf' -> 'glyphs/Peyda Light'
